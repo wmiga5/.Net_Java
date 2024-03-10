@@ -1,16 +1,20 @@
-﻿namespace ConsoleApp1
-{
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
-            Problem problem= new Problem(10,5);
-            Console.WriteLine(problem);
-            Result solved_problem = new Result(problem.Solve(20));
+﻿
+using ConsoleApp1;
+using System.Runtime.CompilerServices;
+using System.Security.Cryptography.X509Certificates;
 
-            Console.WriteLine(problem);
-           
-            Console.WriteLine(solved_problem);
-        }
-    }
-}
+[assembly: InternalsVisibleTo("Test_UNIT")]
+int Backpack_size=20;
+Problem problem = new Problem(5, 1);
+Console.WriteLine(problem);
+Result solved_problem = new(problem.Solve(Backpack_size));
+
+Console.WriteLine(problem);
+
+Console.WriteLine(solved_problem);
+
+ 
+
+
+
+
