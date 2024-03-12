@@ -97,5 +97,31 @@ namespace Test_UNIT
             Assert.IsTrue(result.total_value == 0);
             Assert.IsTrue(result.solved.Count == 0);
         }
+
+        [TestMethod]
+        public void Check_if_two_instance_are_same()
+        {
+            Problem problem1 = new Problem(10,1);
+        Problem problem2 = new Problem(10, 1);
+
+       
+
+            Result result1 = new Result(problem1.Solve(6));
+        Result result2 = new Result(problem2.Solve(6));
+
+            for(int i = 0;i<result1.solved.Count;i++) 
+            {
+                Assert.AreEqual(result1.solved[i].weight, result2.solved[i].weight);
+                Assert.AreEqual(result1.solved[i].value, result2.solved[i].value);
+                Assert.AreEqual(result1.solved[i].index, result2.solved[i].index);
+
+            }
+
+
+    Assert.AreEqual(result1.total_weight, result2.total_weight);
+            Assert.AreEqual(result1.total_value, result2.total_value);
+
+        }
+        }
+        
     }
-}
