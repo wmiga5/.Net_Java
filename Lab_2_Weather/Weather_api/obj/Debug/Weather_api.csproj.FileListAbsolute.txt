@@ -1,0 +1,10 @@
+C:\Users\wojte\Documents\GitHub\.Net_Java\Lab_2_Weather\Weather_api\bin\Debug\Weather_api.exe.config
+C:\Users\wojte\Documents\GitHub\.Net_Java\Lab_2_Weather\Weather_api\bin\Debug\Weather_api.exe
+C:\Users\wojte\Documents\GitHub\.Net_Java\Lab_2_Weather\Weather_api\bin\Debug\Weather_api.pdb
+C:\Users\wojte\Documents\GitHub\.Net_Java\Lab_2_Weather\Weather_api\obj\Debug\Weather_api.csproj.AssemblyReference.cache
+C:\Users\wojte\Documents\GitHub\.Net_Java\Lab_2_Weather\Weather_api\obj\Debug\Weather_api.Properties.Resources.resources
+C:\Users\wojte\Documents\GitHub\.Net_Java\Lab_2_Weather\Weather_api\obj\Debug\Weather_api.csproj.GenerateResource.cache
+C:\Users\wojte\Documents\GitHub\.Net_Java\Lab_2_Weather\Weather_api\obj\Debug\Weather_api.csproj.CoreCompileInputs.cache
+C:\Users\wojte\Documents\GitHub\.Net_Java\Lab_2_Weather\Weather_api\obj\Debug\Weather_api.exe
+C:\Users\wojte\Documents\GitHub\.Net_Java\Lab_2_Weather\Weather_api\obj\Debug\Weather_api.pdb
+C:\Users\wojte\Documents\GitHub\.Net_Java\Lab_2_Weather\Weather_api\obj\Debug\Weather_api.List_box.resources
