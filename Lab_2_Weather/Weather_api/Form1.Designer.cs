@@ -28,37 +28,49 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.Download = new System.Windows.Forms.Button();
-            this.listBox2 = new System.Windows.Forms.ListBox();
-            this.SuspendLayout();
+            Download = new System.Windows.Forms.Button();
+            listBox2 = new System.Windows.Forms.ListBox();
+            button1 = new System.Windows.Forms.Button();
+            SuspendLayout();
             // 
             // Download
             // 
-            this.Download.Location = new System.Drawing.Point(336, 131);
-            this.Download.Name = "Download";
-            this.Download.Size = new System.Drawing.Size(75, 23);
-            this.Download.TabIndex = 0;
-            this.Download.Text = "button1";
-            this.Download.UseVisualStyleBackColor = true;
-            this.Download.Click += new System.EventHandler(this.Download_Click);
+            Download.Location = new System.Drawing.Point(336, 131);
+            Download.Name = "Download";
+            Download.Size = new System.Drawing.Size(75, 23);
+            Download.TabIndex = 0;
+            Download.Text = "Download";
+            Download.UseVisualStyleBackColor = true;
+            Download.Click += Download_Click;
             // 
             // listBox2
             // 
-            this.listBox2.FormattingEnabled = true;
-            this.listBox2.ItemHeight = 16;
-            this.listBox2.Location = new System.Drawing.Point(509, 78);
-            this.listBox2.Name = "listBox2";
-            this.listBox2.Size = new System.Drawing.Size(416, 292);
-            this.listBox2.TabIndex = 1;
+            listBox2.FormattingEnabled = true;
+            listBox2.ItemHeight = 15;
+            listBox2.Location = new System.Drawing.Point(509, 78);
+            listBox2.Name = "listBox2";
+            listBox2.Size = new System.Drawing.Size(416, 289);
+            listBox2.TabIndex = 1;
+            listBox2.SelectedIndexChanged += listBox2_SelectedIndexChanged;
+            // 
+            // button1
+            // 
+            button1.Location = new System.Drawing.Point(347, 233);
+            button1.Name = "button1";
+            button1.Size = new System.Drawing.Size(75, 23);
+            button1.TabIndex = 2;
+            button1.Text = "Erase";
+            button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click_1;
             // 
             // List_box
             // 
-            this.ClientSize = new System.Drawing.Size(981, 438);
-            this.Controls.Add(this.listBox2);
-            this.Controls.Add(this.Download);
-            this.Name = "List_box";
-            this.ResumeLayout(false);
-
+            ClientSize = new System.Drawing.Size(981, 438);
+            Controls.Add(button1);
+            Controls.Add(listBox2);
+            Controls.Add(Download);
+            Name = "List_box";
+            ResumeLayout(false);
         }
 
         #endregion
@@ -68,6 +80,7 @@
         private System.Windows.Forms.ListBox listBox1;
         private System.Windows.Forms.Button Download;
         private System.Windows.Forms.ListBox listBox2;
+        private System.Windows.Forms.Button button1;
     }
 }
 
