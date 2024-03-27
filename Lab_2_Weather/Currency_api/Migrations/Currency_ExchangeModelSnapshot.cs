@@ -41,7 +41,14 @@ namespace Weather_api.Migrations
                             Id = 1,
                             Exchange = 4.5f,
                             Tag = "TEST",
-                            timestamp_number = 0.0
+                            timestamp_number = 4.5
+                        },
+                        new
+                        {
+                            Id = 2,
+                            Exchange = 4.5f,
+                            Tag = "TEST2",
+                            timestamp_number = 4.5
                         });
                 });
 #pragma warning restore 612, 618

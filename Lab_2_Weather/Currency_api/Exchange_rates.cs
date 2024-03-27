@@ -12,13 +12,13 @@ namespace Weather_api
     public class Exchange_rates
     {
 
-        public double CHF { get; set; }
-        public double EUR { get; set; }
-        public double GBP { get; set; }
-        public double JPY { get; set; }
-        public double PLN { get; set; }
-        public double RUB { get; set; }
-        public int USD { get; set; }
+        public float CHF { get; set; }
+        public float EUR { get; set; }
+        public float GBP { get; set; }
+        public float JPY { get; set; }
+        public float PLN { get; set; }
+        public float RUB { get; set; }
+        public float USD { get; set; }
 
 
         public override string ToString()

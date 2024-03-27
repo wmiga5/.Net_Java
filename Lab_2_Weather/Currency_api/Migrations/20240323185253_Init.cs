@@ -28,7 +28,7 @@ namespace Weather_api.Migrations
             migrationBuilder.InsertData(
                 table: "Currencies",
                 columns: new[] { "Id", "Exchange", "Tag", "timestamp_number" },
-                values: new object[] { 1, 4.5f, "TEST", 0.0 });
+                values: new object[] { 1, 4.5f, "TEST", 4.5 });
         }
 
         /// <inheritdoc />

@@ -1,50 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Weather_api\\",
+  "WorkspaceRootPath": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Currency_api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FEB4E66B-E65E-4FC2-883E-EBC9D09EF9D1}|Weather_api.csproj|C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Weather_api\\migrations\\20240323185253_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEB4E66B-E65E-4FC2-883E-EBC9D09EF9D1}|Weather_api.csproj|solutionrelative:migrations\\20240323185253_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FEB4E66B-E65E-4FC2-883E-EBC9D09EF9D1}|Weather_api.csproj|C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Currency_api\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEB4E66B-E65E-4FC2-883E-EBC9D09EF9D1}|Weather_api.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEB4E66B-E65E-4FC2-883E-EBC9D09EF9D1}|Weather_api.csproj|C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Weather_api\\migrations\\20240324104824_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEB4E66B-E65E-4FC2-883E-EBC9D09EF9D1}|Weather_api.csproj|solutionrelative:migrations\\20240324104824_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FEB4E66B-E65E-4FC2-883E-EBC9D09EF9D1}|Weather_api.csproj|C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Weather_api\\currency_exchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEB4E66B-E65E-4FC2-883E-EBC9D09EF9D1}|Weather_api.csproj|solutionrelative:currency_exchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FEB4E66B-E65E-4FC2-883E-EBC9D09EF9D1}|Weather_api.csproj|c:\\users\\wojte\\documents\\github\\.net_java\\lab_2_weather\\weather_api\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FEB4E66B-E65E-4FC2-883E-EBC9D09EF9D1}|Weather_api.csproj|C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Currency_api\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FEB4E66B-E65E-4FC2-883E-EBC9D09EF9D1}|Weather_api.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEB4E66B-E65E-4FC2-883E-EBC9D09EF9D1}|Weather_api.csproj|c:\\users\\wojte\\documents\\github\\.net_java\\lab_2_weather\\weather_api\\exch.db||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{FEB4E66B-E65E-4FC2-883E-EBC9D09EF9D1}|Weather_api.csproj|solutionrelative:exch.db||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+      "AbsoluteMoniker": "D:0:0:{FEB4E66B-E65E-4FC2-883E-EBC9D09EF9D1}|Weather_api.csproj|c:\\users\\wojte\\documents\\github\\.net_java\\lab_2_weather\\currency_api\\chart_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEB4E66B-E65E-4FC2-883E-EBC9D09EF9D1}|Weather_api.csproj|solutionrelative:chart_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEB4E66B-E65E-4FC2-883E-EBC9D09EF9D1}|Weather_api.csproj|C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Weather_api\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEB4E66B-E65E-4FC2-883E-EBC9D09EF9D1}|Weather_api.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FEB4E66B-E65E-4FC2-883E-EBC9D09EF9D1}|Weather_api.csproj|c:\\users\\wojte\\documents\\github\\.net_java\\lab_2_weather\\currency_api\\chart_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEB4E66B-E65E-4FC2-883E-EBC9D09EF9D1}|Weather_api.csproj|solutionrelative:chart_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEB4E66B-E65E-4FC2-883E-EBC9D09EF9D1}|Weather_api.csproj|C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Weather_api\\rates_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEB4E66B-E65E-4FC2-883E-EBC9D09EF9D1}|Weather_api.csproj|solutionrelative:rates_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FEB4E66B-E65E-4FC2-883E-EBC9D09EF9D1}|Weather_api.csproj|c:\\users\\wojte\\documents\\github\\.net_java\\lab_2_weather\\currency_api\\chart_form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEB4E66B-E65E-4FC2-883E-EBC9D09EF9D1}|Weather_api.csproj|solutionrelative:chart_form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEB4E66B-E65E-4FC2-883E-EBC9D09EF9D1}|Weather_api.csproj|C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Weather_api\\exchange_rates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEB4E66B-E65E-4FC2-883E-EBC9D09EF9D1}|Weather_api.csproj|solutionrelative:exchange_rates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FEB4E66B-E65E-4FC2-883E-EBC9D09EF9D1}|Weather_api.csproj|C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Weather_api\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FEB4E66B-E65E-4FC2-883E-EBC9D09EF9D1}|Weather_api.csproj|C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Currency_api\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FEB4E66B-E65E-4FC2-883E-EBC9D09EF9D1}|Weather_api.csproj|solutionrelative:currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEB4E66B-E65E-4FC2-883E-EBC9D09EF9D1}|Weather_api.csproj|C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Weather_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEB4E66B-E65E-4FC2-883E-EBC9D09EF9D1}|Weather_api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FEB4E66B-E65E-4FC2-883E-EBC9D09EF9D1}|Weather_api.csproj|C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Currency_api\\currency_exchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEB4E66B-E65E-4FC2-883E-EBC9D09EF9D1}|Weather_api.csproj|solutionrelative:currency_exchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEB4E66B-E65E-4FC2-883E-EBC9D09EF9D1}|Weather_api.csproj|C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Weather_api\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FEB4E66B-E65E-4FC2-883E-EBC9D09EF9D1}|Weather_api.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{FEB4E66B-E65E-4FC2-883E-EBC9D09EF9D1}|Weather_api.csproj|C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Currency_api\\rates_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEB4E66B-E65E-4FC2-883E-EBC9D09EF9D1}|Weather_api.csproj|solutionrelative:rates_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB4E66B-E65E-4FC2-883E-EBC9D09EF9D1}|Weather_api.csproj|C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Currency_api\\exchange_rates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEB4E66B-E65E-4FC2-883E-EBC9D09EF9D1}|Weather_api.csproj|solutionrelative:exchange_rates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB4E66B-E65E-4FC2-883E-EBC9D09EF9D1}|Weather_api.csproj|C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Currency_api\\migrations\\20240326151658_init3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEB4E66B-E65E-4FC2-883E-EBC9D09EF9D1}|Weather_api.csproj|solutionrelative:migrations\\20240326151658_init3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB4E66B-E65E-4FC2-883E-EBC9D09EF9D1}|Weather_api.csproj|C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Currency_api\\migrations\\20240324104824_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEB4E66B-E65E-4FC2-883E-EBC9D09EF9D1}|Weather_api.csproj|solutionrelative:migrations\\20240324104824_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB4E66B-E65E-4FC2-883E-EBC9D09EF9D1}|Weather_api.csproj|C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Currency_api\\migrations\\currency_exchangemodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEB4E66B-E65E-4FC2-883E-EBC9D09EF9D1}|Weather_api.csproj|solutionrelative:migrations\\currency_exchangemodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB4E66B-E65E-4FC2-883E-EBC9D09EF9D1}|Weather_api.csproj|C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Currency_api\\Migrations\\20240326153706_Init4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEB4E66B-E65E-4FC2-883E-EBC9D09EF9D1}|Weather_api.csproj|solutionrelative:Migrations\\20240326153706_Init4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB4E66B-E65E-4FC2-883E-EBC9D09EF9D1}|Weather_api.csproj|C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Currency_api\\Migrations\\20240326154708_Init5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEB4E66B-E65E-4FC2-883E-EBC9D09EF9D1}|Weather_api.csproj|solutionrelative:Migrations\\20240326154708_Init5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -53,9 +65,60 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "DockedWidth": 243,
+          "SelectedChildIndex": 10,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "rates_data.cs",
+              "DocumentMoniker": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Currency_api\\rates_data.cs",
+              "RelativeDocumentMoniker": "rates_data.cs",
+              "ToolTip": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Currency_api\\rates_data.cs",
+              "RelativeToolTip": "rates_data.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T14:44:09.522Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Chart_Form.cs",
+              "DocumentMoniker": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Currency_api\\Chart_Form.cs",
+              "RelativeDocumentMoniker": "Chart_Form.cs",
+              "ToolTip": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Currency_api\\Chart_Form.cs",
+              "RelativeToolTip": "Chart_Form.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T14:41:31.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Chart_Form.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Currency_api\\Chart_Form.Designer.cs",
+              "RelativeDocumentMoniker": "Chart_Form.Designer.cs",
+              "ToolTip": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Currency_api\\Chart_Form.Designer.cs",
+              "RelativeToolTip": "Chart_Form.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T14:41:05.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Chart_Form.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Currency_api\\Chart_Form.cs",
+              "RelativeDocumentMoniker": "Chart_Form.cs",
+              "ToolTip": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Currency_api\\Chart_Form.cs [Design]",
+              "RelativeToolTip": "Chart_Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T14:41:02.745Z",
+              "EditorCaption": " [Design]"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -65,142 +128,131 @@
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Exch.db",
-              "DocumentMoniker": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Weather_api\\Exch.db",
-              "RelativeDocumentMoniker": "Exch.db",
-              "ToolTip": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Weather_api\\Exch.db",
-              "RelativeToolTip": "Exch.db",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGGSURBVDhPY2SAgsry0vsMDP8VoFwsgPHBn38Mgd3d3RegAkDl//9DWSADSv7/\u002BvULJwbJNzXUvi8tLTWAagEDJihNFEhITBbg5ebYj2wI0QYICAgwTJ82heH79\u002B8CLEz/90OFEQDdC3uOnPm/69ApFDEYBqmFasN0wdXbDxh2HDzJ8O79B4a3794zrN9\u002BgOHc5RtQWUyAYQALExPDt2/fGUz0NBlMDbQYvn3/xsDCgtunGDJ//v5l\u002BP37F8Pff38Z/gHZf37/Zvjz5y9UFhNgGPDz508GUOI4cPQUw74jJxgYgZxTZ88DXfIDogANYBhgpKvBEObnxsDHw8XwF2jzsxdPGR49eczQ0TeR4cbN21BVCIDTc4FeLgyezjYMHz98ZGirKWf48O4dAwcHG1QWAXCHDhB8/QoMQKCK3KJSBlZWZpSUCwN4DVBXVWaoKMpnsLG0YOjtaGNQVMDMKngNAAFuLi6G8NBgKA8TEDSAEEDKzsXA7MyIJzsjg/8P2jt7FRkYGBgAmdPDqvBXzR4AAAAASUVORK5CYII=",
-              "WhenOpened": "2024-03-24T16:08:01.627Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Weather_api\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Weather_api\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAwwEAAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-23T14:38:55.811Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "20240324104824_Init2.cs",
-              "DocumentMoniker": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Weather_api\\Migrations\\20240324104824_Init2.cs",
-              "RelativeDocumentMoniker": "Migrations\\20240324104824_Init2.cs",
-              "ToolTip": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Weather_api\\Migrations\\20240324104824_Init2.cs",
-              "RelativeToolTip": "Migrations\\20240324104824_Init2.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T10:48:24.552Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20240323185253_Init.cs",
-              "DocumentMoniker": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Weather_api\\Migrations\\20240323185253_Init.cs",
-              "RelativeDocumentMoniker": "Migrations\\20240323185253_Init.cs",
-              "ToolTip": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Weather_api\\Migrations\\20240323185253_Init.cs",
-              "RelativeToolTip": "Migrations\\20240323185253_Init.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAWwBgAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-23T18:52:53.519Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Currency_Exchange.cs",
-              "DocumentMoniker": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Weather_api\\Currency_Exchange.cs",
-              "RelativeDocumentMoniker": "Currency_Exchange.cs",
-              "ToolTip": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Weather_api\\Currency_Exchange.cs",
-              "RelativeToolTip": "Currency_Exchange.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBoAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-23T13:04:03.663Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Currency.cs",
-              "DocumentMoniker": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Weather_api\\Currency.cs",
-              "RelativeDocumentMoniker": "Currency.cs",
-              "ToolTip": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Weather_api\\Currency.cs",
-              "RelativeToolTip": "Currency.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-23T12:58:44.187Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "rates_data.cs",
-              "DocumentMoniker": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Weather_api\\rates_data.cs",
-              "RelativeDocumentMoniker": "rates_data.cs",
-              "ToolTip": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Weather_api\\rates_data.cs",
-              "RelativeToolTip": "rates_data.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-23T14:44:09.522Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Exchange_rates.cs",
-              "DocumentMoniker": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Weather_api\\Exchange_rates.cs",
-              "RelativeDocumentMoniker": "Exchange_rates.cs",
-              "ToolTip": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Weather_api\\Exchange_rates.cs",
-              "RelativeToolTip": "Exchange_rates.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-23T13:10:53.686Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Weather_api\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Weather_api\\Form1.Designer.cs",
-              "RelativeToolTip": "Form1.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-23T12:57:28.212Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Weather_api\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Weather_api\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAowBIAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-23T12:53:50.72Z"
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
+              "Title": "Exchange_rates.cs",
+              "DocumentMoniker": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Currency_api\\Exchange_rates.cs",
+              "RelativeDocumentMoniker": "Exchange_rates.cs",
+              "ToolTip": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Currency_api\\Exchange_rates.cs",
+              "RelativeToolTip": "Exchange_rates.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T10:06:55.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Currency_Exchange.cs",
+              "DocumentMoniker": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Currency_api\\Currency_Exchange.cs",
+              "RelativeDocumentMoniker": "Currency_Exchange.cs",
+              "ToolTip": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Currency_api\\Currency_Exchange.cs",
+              "RelativeToolTip": "Currency_Exchange.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T14:47:56.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Currency.cs",
+              "DocumentMoniker": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Currency_api\\Currency.cs",
+              "RelativeDocumentMoniker": "Currency.cs",
+              "ToolTip": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Currency_api\\Currency.cs",
+              "RelativeToolTip": "Currency.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAIA9wBIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T15:42:42.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Weather_api\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Currency_api\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Weather_api\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Currency_api\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-23T12:57:27.125Z"
+              "WhenOpened": "2024-03-26T14:47:20.517Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Currency_api\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Currency_api\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAKoAAAAAAAAAAAAkwLsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T14:47:52.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240326151658_Init3.cs",
+              "DocumentMoniker": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Currency_api\\Migrations\\20240326151658_Init3.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240326151658_Init3.cs",
+              "ToolTip": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Currency_api\\Migrations\\20240326151658_Init3.cs",
+              "RelativeToolTip": "Migrations\\20240326151658_Init3.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T15:16:59.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240326153706_Init4.cs",
+              "DocumentMoniker": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Currency_api\\Migrations\\20240326153706_Init4.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240326153706_Init4.cs",
+              "ToolTip": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Currency_api\\Migrations\\20240326153706_Init4.cs",
+              "RelativeToolTip": "Migrations\\20240326153706_Init4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T15:37:06.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240326154708_Init5.cs",
+              "DocumentMoniker": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Currency_api\\Migrations\\20240326154708_Init5.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240326154708_Init5.cs",
+              "ToolTip": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Currency_api\\Migrations\\20240326154708_Init5.cs",
+              "RelativeToolTip": "Migrations\\20240326154708_Init5.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T15:47:08.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240324104824_Init2.cs",
+              "DocumentMoniker": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Currency_api\\Migrations\\20240324104824_Init2.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240324104824_Init2.cs",
+              "ToolTip": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Currency_api\\Migrations\\20240324104824_Init2.cs",
+              "RelativeToolTip": "Migrations\\20240324104824_Init2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T14:48:04.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Currency_ExchangeModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Currency_api\\Migrations\\Currency_ExchangeModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\Currency_ExchangeModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_2_Weather\\Currency_api\\Migrations\\Currency_ExchangeModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\Currency_ExchangeModelSnapshot.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T15:24:27.23Z"
             }
           ]
         }

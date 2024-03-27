@@ -21,7 +21,8 @@ namespace Weather_api
         }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<Currency>().HasData(new Currency() { Id = 1, Tag = "TEST", Exchange = 4.5f, timestamp_number = 0 }) ;
+            modelBuilder.Entity<Currency>().HasData(new Currency() { Id = 1, Tag = "TEST", Exchange = 4.5f, timestamp_number = 4.5 } ) ;
+
                 }
     }
 }
