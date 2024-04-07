@@ -26,10 +26,10 @@ namespace Weather_api
 
         public DateTime ConvertTimestampToDateTime()
         {
-            // Tworzymy czas od początku epoki Unix (1 stycznia 1970 roku)
+            
             DateTime epoch = new DateTime(1970, 1, 1, 0, 0, 0, DateTimeKind.Utc);
 
-            // Dodajemy wartość timestampu jako liczbę sekund do czasu początkowego
+        
             DateTime dateTime = epoch.AddSeconds(timestamp_number);
 
             return dateTime;

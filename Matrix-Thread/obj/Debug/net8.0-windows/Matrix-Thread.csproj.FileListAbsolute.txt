@@ -1,0 +1,17 @@
+C:\Users\wojte\Documents\GitHub\.Net_Java\Matrix-Thread\bin\Debug\net8.0-windows\Matrix-Thread.exe
+C:\Users\wojte\Documents\GitHub\.Net_Java\Matrix-Thread\bin\Debug\net8.0-windows\Matrix-Thread.deps.json
+C:\Users\wojte\Documents\GitHub\.Net_Java\Matrix-Thread\bin\Debug\net8.0-windows\Matrix-Thread.runtimeconfig.json
+C:\Users\wojte\Documents\GitHub\.Net_Java\Matrix-Thread\bin\Debug\net8.0-windows\Matrix-Thread.dll
+C:\Users\wojte\Documents\GitHub\.Net_Java\Matrix-Thread\bin\Debug\net8.0-windows\Matrix-Thread.pdb
+C:\Users\wojte\Documents\GitHub\.Net_Java\Matrix-Thread\obj\Debug\net8.0-windows\Matrix_Thread.Form1.resources
+C:\Users\wojte\Documents\GitHub\.Net_Java\Matrix-Thread\obj\Debug\net8.0-windows\Matrix-Thread.csproj.GenerateResource.cache
+C:\Users\wojte\Documents\GitHub\.Net_Java\Matrix-Thread\obj\Debug\net8.0-windows\Matrix-Thread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wojte\Documents\GitHub\.Net_Java\Matrix-Thread\obj\Debug\net8.0-windows\Matrix-Thread.AssemblyInfoInputs.cache
+C:\Users\wojte\Documents\GitHub\.Net_Java\Matrix-Thread\obj\Debug\net8.0-windows\Matrix-Thread.AssemblyInfo.cs
+C:\Users\wojte\Documents\GitHub\.Net_Java\Matrix-Thread\obj\Debug\net8.0-windows\Matrix-Thread.csproj.CoreCompileInputs.cache
+C:\Users\wojte\Documents\GitHub\.Net_Java\Matrix-Thread\obj\Debug\net8.0-windows\Matrix-Thread.sourcelink.json
+C:\Users\wojte\Documents\GitHub\.Net_Java\Matrix-Thread\obj\Debug\net8.0-windows\Matrix-Thread.dll
+C:\Users\wojte\Documents\GitHub\.Net_Java\Matrix-Thread\obj\Debug\net8.0-windows\refint\Matrix-Thread.dll
+C:\Users\wojte\Documents\GitHub\.Net_Java\Matrix-Thread\obj\Debug\net8.0-windows\Matrix-Thread.pdb
+C:\Users\wojte\Documents\GitHub\.Net_Java\Matrix-Thread\obj\Debug\net8.0-windows\Matrix-Thread.genruntimeconfig.cache
+C:\Users\wojte\Documents\GitHub\.Net_Java\Matrix-Thread\obj\Debug\net8.0-windows\ref\Matrix-Thread.dll
