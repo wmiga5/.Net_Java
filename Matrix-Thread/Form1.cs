@@ -46,9 +46,11 @@ namespace Matrix_Thread
             Multiplex multiplex = new Multiplex(matrix_one, matrix_two);
             
             var watch=System.Diagnostics.Stopwatch.StartNew();
-            Matrix help = multiplex.Count_matrix(int.Parse(Thread_Input.Text));
+          
+            Matrix help = multiplex.Count_matrix_simple(int.Parse(Thread_Input.Text), label2);
+            label2.Text = multiplex.get_counter().ToString();
             watch.Stop();
-            label1.Text = watch.Elapsed.ToString();
+            label1.Text = watch.ElapsedMilliseconds.ToString();
             foreach (List<double> row in help.Values)
             {
                 StringBuilder rowString = new StringBuilder();
@@ -67,7 +69,7 @@ namespace Matrix_Thread
             Matrix_1.Items.Clear();
             Matrix_2.Items.Clear();
             Matrix_Result.Items.Clear();
-
+            label2.Text="";
         }
     }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Matrix-Thread")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a20cb86863358d0bc9c78a94d1df68b7916be348")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f773b345556649b2a869c3daee17542a26ed23d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Matrix-Thread")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Matrix-Thread")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

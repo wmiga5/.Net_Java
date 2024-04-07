@@ -37,6 +37,7 @@
             Generate_button = new Button();
             Count = new Button();
             label1 = new Label();
+            label2 = new Label();
             SuspendLayout();
             // 
             // Matrix_1
@@ -125,11 +126,21 @@
             label1.TabIndex = 8;
             label1.Text = "label1";
             // 
+            // label2
+            // 
+            label2.AutoSize = true;
+            label2.Location = new Point(1000, 60);
+            label2.Name = "label2";
+            label2.Size = new Size(38, 15);
+            label2.TabIndex = 9;
+            label2.Text = "label2";
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1252, 392);
+            Controls.Add(label2);
             Controls.Add(label1);
             Controls.Add(Count);
             Controls.Add(Generate_button);
@@ -157,5 +168,6 @@
         private Button Generate_button;
         private Button Count;
         private Label label1;
+        private Label label2;
     }
 }

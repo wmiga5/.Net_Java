@@ -21,15 +21,22 @@ namespace Matrix_Thread
             Values = new List<List<double>>();
             Random random = new Random(seed);
 
-            for (int i = 0; i < Size; i++)
+            Parallel.For(0, Size, i =>
             {
                 List<double> row = new List<double>();
+                
+
                 for (int j = 0; j < Size; j++)
                 {
-                    row.Add(random.Next(0, 10));
+                    row.Add(random.Next(0,10)); // Generowanie losowej liczby z zakresu 0-10
                 }
-                Values.Add(row);
-            }
+
+                // Synchronizuj dodanie wiersza do listy
+                lock (Values)
+                {
+                    Values.Add(row);
+                }
+            });
         }
 
         public override string ToString()

@@ -12,7 +12,11 @@ namespace Matrix_Thread
     {
         Matrix matrix_one;
         Matrix matrix_two;
+        int counter;
 
+        void Counter() { counter++; }
+        public int get_counter() { return counter; }
+        public static readonly object locker=new object();
         public Multiplex()
         {
             matrix_one = new Matrix();
@@ -24,44 +28,31 @@ namespace Matrix_Thread
             this.matrix_two = matrix_two;
         }
 
-        public Matrix Count_matrix(int Threads_number)
+        public Matrix Count_matrix(int Threads_number,Label label_help)
         {
+
+          
+
             Matrix result = new Matrix(2,matrix_two.Size);
 
-            List<Thread> threads = new List<Thread>();
+           Thread[] threads = new Thread[Threads_number];
 
             int elements_per_thread = (int)Math.Ceiling((double)(matrix_one.Size * matrix_one.Size) / Threads_number);
 
             for(int t=0;t<Threads_number;t++)
             {
                 int start = t * elements_per_thread;
-                int end = Math.Min((t+1) * elements_per_thread, matrix_one.Size * matrix_one.Size);
-
-                for (int idx = start; idx < end; idx++)
-                {
-                    int row = idx / matrix_one.Size;
-                    int col = idx % matrix_one.Size;
-
-                    Thread thread = new Thread(obj =>
-                     {
-                    
-                    
-                    double sum = 0;
-                    for (int k = 0; k < matrix_one.Size; k++)
-                    {
-                        sum += matrix_one.Values[row][k] * matrix_two.Values[k][col];
-                    }
-                    result.Values[row][col] = sum;
-
-                     });
-                    threads.Add(thread);
-                    thread.Start();
+                int end = Math.Min((t+1) * elements_per_thread, (matrix_one.Size));
 
 
 
-                }
 
-                
+                threads[t] = new Thread(()=>Calculate(start,end,result,label_help));
+                threads[t].Start();
+
+
+              
+
             }
 
 
@@ -74,7 +65,33 @@ namespace Matrix_Thread
 
         }
 
-        public Matrix Count_matrix_simple(int Threads_number)
+
+        public void Calculate(int start,int end,Matrix result,Label label_help)
+        {
+            lock(locker)
+            {
+                Counter();
+            }
+             
+
+            for(int i=start; i<end; i++)
+            {
+                for(int j=0; j<matrix_one.Size; j++)
+                {
+                    double sum = 0;
+                    for(int k=0; k<matrix_two.Size; k++)
+                    {
+                        sum += matrix_one.Values[i][k] * matrix_two.Values[k][j];
+                    }
+                    result.Values[i][j] = sum;
+                }
+            }
+
+           
+
+        }
+
+        public Matrix Count_matrix_simple(int Threads_number,Label hel)
         {
             Matrix result = new Matrix(2, matrix_two.Size);
 
