@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Matrix-Thread\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDDAFB1-20A9-49CB-99F2-49888D0F9E14}|Matrix-Thread.csproj|C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Matrix-Thread\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCDDAFB1-20A9-49CB-99F2-49888D0F9E14}|Matrix-Thread.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDDAFB1-20A9-49CB-99F2-49888D0F9E14}|Matrix-Thread.csproj|C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Matrix-Thread\\multiplex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCDDAFB1-20A9-49CB-99F2-49888D0F9E14}|Matrix-Thread.csproj|solutionrelative:multiplex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDDAFB1-20A9-49CB-99F2-49888D0F9E14}|Matrix-Thread.csproj|c:\\users\\wojte\\documents\\github\\.net_java\\matrix-thread\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FCDDAFB1-20A9-49CB-99F2-49888D0F9E14}|Matrix-Thread.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDDAFB1-20A9-49CB-99F2-49888D0F9E14}|Matrix-Thread.csproj|C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Matrix-Thread\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCDDAFB1-20A9-49CB-99F2-49888D0F9E14}|Matrix-Thread.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDDAFB1-20A9-49CB-99F2-49888D0F9E14}|Matrix-Thread.csproj|C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Matrix-Thread\\matrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCDDAFB1-20A9-49CB-99F2-49888D0F9E14}|Matrix-Thread.csproj|solutionrelative:matrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDDAFB1-20A9-49CB-99F2-49888D0F9E14}|Matrix-Thread.csproj|C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Matrix-Thread\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCDDAFB1-20A9-49CB-99F2-49888D0F9E14}|Matrix-Thread.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 243,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Matrix.cs",
+              "DocumentMoniker": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Matrix-Thread\\Matrix.cs",
+              "RelativeDocumentMoniker": "Matrix.cs",
+              "ToolTip": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Matrix-Thread\\Matrix.cs",
+              "RelativeToolTip": "Matrix.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAiwBgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T17:18:51.213Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:427032125:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Matrix-Thread\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Matrix-Thread\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T17:18:07.668Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Matrix-Thread\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Matrix-Thread\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T17:29:12.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Multiplex.cs",
+              "DocumentMoniker": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Matrix-Thread\\Multiplex.cs",
+              "RelativeDocumentMoniker": "Multiplex.cs",
+              "ToolTip": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Matrix-Thread\\Multiplex.cs",
+              "RelativeToolTip": "Multiplex.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAA7wH0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T17:00:57.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Matrix-Thread\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Matrix-Thread\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T17:31:02.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Matrix-Thread\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Matrix-Thread\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T17:28:19.406Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

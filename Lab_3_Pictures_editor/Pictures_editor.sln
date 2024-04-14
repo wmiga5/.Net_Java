@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pictures_editor", "Pictures_editor.csproj", "{07D1F8BD-A6CE-4EF1-AC19-8954389121C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07D1F8BD-A6CE-4EF1-AC19-8954389121C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07D1F8BD-A6CE-4EF1-AC19-8954389121C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07D1F8BD-A6CE-4EF1-AC19-8954389121C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07D1F8BD-A6CE-4EF1-AC19-8954389121C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D191EE6-8344-4C4F-8FBC-F5541FCBBD2F}
+	EndGlobalSection
+EndGlobal
