@@ -1,0 +1,28 @@
+﻿@page "/movies"
+@using Microsoft.AspNetCore.Components.QuickGrid
+@inject Movie_blazor.Data.ApplicationDbContext DB
+@using Movie_blazor.Components.Movies
+@attribute [StreamRendering]
+@rendermode InteractiveServer
+
+<PageTitle>Index</PageTitle>
+
+<h1>Index</h1>
+
+<p>
+    <a href="movies/create">Create New</a>
+</p>
+
+<QuickGrid Class="table" Items="DB.Movie" Sortable="true">
+    <PropertyColumn Property="movie => movie.Title" Sortable="true" />
+   
+    <PropertyColumn Property="movie => movie.Release_date" Sortable="true" />
+    <PropertyColumn Property="movie => movie.Rate" Sortable="true" />
+    <PropertyColumn Property="movie => movie.how_many_have_rated" Sortable="true" />
+
+    <TemplateColumn Context="movie">
+        <a href="@($"movies/edit?id={movie.Id}")">Edit</a> |
+        <a href="@($"movies/details?id={movie.Id}")">Details</a> |
+        <a href="@($"movies/delete?id={movie.Id}")">Delete</a>
+    </TemplateColumn>
+</QuickGrid>

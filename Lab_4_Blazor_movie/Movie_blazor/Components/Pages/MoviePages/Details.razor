@@ -1,0 +1,74 @@
+﻿@page "/movies/details"
+@inject Movie_blazor.Data.ApplicationDbContext DB
+@using Movie_blazor.Components.Movies
+@inject NavigationManager NavigationManager
+@using Microsoft.EntityFrameworkCore
+@rendermode InteractiveServer
+<PageTitle>Details</PageTitle>
+
+<h1>Details</h1>
+
+<div>
+    <h4>Movie</h4>
+    <hr />
+    @if (movie is null)
+    {
+        <p><em>Loading...</em></p>
+    }
+    else
+    {
+        <dl class="row">
+            <dt class="col-sm-2">Title</dt>
+            <dd class="col-sm-10">@movie.Title</dd>
+            <dt class="col-sm-2">Description</dt>
+            <dd class="col-sm-10">@movie.Description</dd>
+            <dt class="col-sm-2">Release_date</dt>
+            <dd class="col-sm-10">@movie.Release_date</dd>
+            <dt class="col-sm-2">Rate</dt>
+            <dd class="col-sm-10">@movie.Rate</dd>
+            <dt class="col-sm-2">how_many_have_rated</dt>
+            <dd class="col-sm-10">@movie.how_many_have_rated</dd>
+            
+        </dl>
+        <img src="@movie.URL" width="400" />
+        <div>
+            <a href="@($"/movies/edit?id={movie.Id}")">Edit</a> |
+            <a href="@($"/movies")">Back to List</a>
+        </div>
+        <div>
+            <input type="number" @bind="input_rate" class="form-control"  />
+            <button class="btn btn-primary" @onclick="Rate_update">Oceń</button>
+        </div>
+
+    }
+</div>
+
+@code {
+    Movie? movie;
+    private int? input_rate;
+   
+
+    [SupplyParameterFromQuery]
+    public int Id { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        movie = await DB.Movie.FirstOrDefaultAsync(m => m.Id == Id);
+
+        if (movie is null)
+        {
+            NavigationManager.NavigateTo("notfound");
+        }
+    }
+
+  
+
+
+    private async Task Rate_update()
+    {
+        movie.how_many_have_rated += 1;
+        movie.Rate = (movie.Rate * (movie.how_many_have_rated-1) + input_rate) / movie.how_many_have_rated;
+      
+     
+    }
+}

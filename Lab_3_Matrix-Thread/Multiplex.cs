@@ -46,14 +46,15 @@ namespace Matrix_Thread
 
             for(int t=0;t<Threads_number;t++)
             {
-                int start = t * elements_per_thread;
-                int end = Math.Min((t+1) * elements_per_thread, (matrix_one.Size));
+                int tt = t;
+                int start = tt * elements_per_thread;
+                int end = Math.Min((tt+1) * elements_per_thread, (matrix_one.Size));
 
 
 
 
-                threads[t] = new Thread(()=>Calculate(start,end,result,label_help));
-                threads[t].Start();
+                threads[tt] = new Thread(()=>Calculate(start,end,result,label_help));
+                threads[tt].Start();
 
 
               

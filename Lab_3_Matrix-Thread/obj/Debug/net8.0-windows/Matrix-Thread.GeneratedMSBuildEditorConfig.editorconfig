@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Matrix_Thread
-build_property.ProjectDir = C:\Users\wojte\Documents\GitHub\.Net_Java\Matrix-Thread\
+build_property.ProjectDir = C:\Users\wojte\Documents\GitHub\.Net_Java\Lab_3_Matrix-Thread\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

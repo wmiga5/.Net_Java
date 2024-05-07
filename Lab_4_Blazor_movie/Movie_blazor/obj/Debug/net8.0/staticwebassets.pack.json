@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_4_Blazor_movie\\Movie_blazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Movie_blazor.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Movie_blazor.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_4_Blazor_movie\\Movie_blazor\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_4_Blazor_movie\\Movie_blazor\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_4_Blazor_movie\\Movie_blazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_4_Blazor_movie\\Movie_blazor\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Movie_blazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Movie_blazor.props",
+      "PackagePath": "build\\Movie_blazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Movie_blazor.props",
+      "PackagePath": "buildMultiTargeting\\Movie_blazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Movie_blazor.props",
+      "PackagePath": "buildTransitive\\Movie_blazor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

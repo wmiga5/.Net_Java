@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Matrix-Thread\\Matrix-Thread.csproj",
+      "projectUniqueName": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_3_Matrix-Thread\\Matrix-Thread.csproj",
       "projectName": "Matrix-Thread",
-      "projectPath": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Matrix-Thread\\Matrix-Thread.csproj",
+      "projectPath": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_3_Matrix-Thread\\Matrix-Thread.csproj",
       "packagesPath": "C:\\Users\\wojte\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Matrix-Thread\\obj\\",
+      "outputPath": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_3_Matrix-Thread\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -68,7 +68,7 @@ namespace Pictures_editor
                     int Avreage_color = (Original_color.R + Original_color.G + Original_color.B) / 3;
                     Color New_color = Color.FromArgb(Avreage_color, Avreage_color, Avreage_color);
                     image.SetPixel(x, y, New_color);
-                }
+                } 
             }
             
         }
