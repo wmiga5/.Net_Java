@@ -1,15 +1,14 @@
 ﻿@page "/weather"
-@using Microsoft.AspNetCore.Authorization
 @attribute [StreamRendering]
-
-@attribute [Authorize]
-
+@rendermode InteractiveServer
 <PageTitle>Weather</PageTitle>
 
 <h1>Weather</h1>
-
+<button @onclick="temperature_filter">Filter </button>
+<button @onclick="temperature_restore">Restore </button>
+<input class="form-control" @oninput="@Input" />
 <p>This component demonstrates showing data.</p>
-
+<p role="status">Current count: @warm_days</p>
 @if (forecasts == null)
 {
     <p><em>Loading...</em></p>
@@ -41,7 +40,8 @@ else
 
 @code {
     private WeatherForecast[]? forecasts;
-
+    private WeatherForecast[]? help_forecast;
+    private int warm_days;
     protected override async Task OnInitializedAsync()
     {
         // Simulate asynchronous loading to demonstrate streaming rendering
@@ -49,13 +49,28 @@ else
 
         var startDate = DateOnly.FromDateTime(DateTime.Now);
         var summaries = new[] { "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching" };
-        forecasts = Enumerable.Range(1, 5).Select(index => new WeatherForecast
-        {
-            Date = startDate.AddDays(index),
-            TemperatureC = Random.Shared.Next(-20, 55),
-            Summary = summaries[Random.Shared.Next(summaries.Length)]
-        }).ToArray();
+        help_forecast = Enumerable.Range(1, 10).Select(index => new WeatherForecast
+            {
+                Date = startDate.AddDays(index),
+                TemperatureC = Random.Shared.Next(-20, 55),
+                Summary = summaries[Random.Shared.Next(summaries.Length)]
+            }).ToArray();
+        forecasts = help_forecast;
+        warm_days = forecasts.Count(x => x.TemperatureC > 15);
+
     }
+
+
+    private void temperature_filter()
+    {
+        // help_forecast = forecasts;
+        forecasts = help_forecast.Where(x => x.TemperatureC > 15).ToArray();
+    }
+    private void temperature_restore()
+    {
+        forecasts = help_forecast;
+    }
+
 
     private class WeatherForecast
     {
@@ -64,4 +79,10 @@ else
         public string? Summary { get; set; }
         public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
     }
+    private void Input(ChangeEventArgs arg)
+    {
+        //  help_forecast = forecasts;
+        forecasts = help_forecast.Where(x => x.Summary.Contains(arg.Value.ToString())).ToArray();
+    }
+
 }

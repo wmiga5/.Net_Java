@@ -35,8 +35,9 @@
             <a href="@($"/movies/edit?id={movie.Id}")">Edit</a> |
             <a href="@($"/movies")">Back to List</a>
         </div>
-        <div>
-            <input type="number" @bind="input_rate" class="form-control"  />
+        <div style="display: flex; flex-direction: column;">
+        <input type="number" @bind="input_rate" class="form-control" style="width: 10%;" />
+            <span style="color: red; font-size: 12px;">@validationMessage</span>
             <button class="btn btn-primary" @onclick="Rate_update">Oceń</button>
         </div>
 
@@ -46,7 +47,7 @@
 @code {
     Movie? movie;
     private int? input_rate;
-   
+    private string validationMessage = "Wprowadź ocenę w przedziale od 1 do 10.";
 
     [SupplyParameterFromQuery]
     public int Id { get; set; }
@@ -61,14 +62,20 @@
         }
     }
 
-  
+
 
 
     private async Task Rate_update()
     {
-        movie.how_many_have_rated += 1;
-        movie.Rate = (movie.Rate * (movie.how_many_have_rated-1) + input_rate) / movie.how_many_have_rated;
-      
-     
+        if ((input_rate <= 10 && input_rate > 0)||input_rate is null)
+        {
+            validationMessage = "Wprowadź ocenę w przedziale od 1 do 10.";
+            movie.how_many_have_rated += 1;
+            movie.Rate = (movie.Rate * (movie.how_many_have_rated - 1) + input_rate) 
+            / movie.how_many_have_rated;
+            return;
+        }
+
+        validationMessage = "Zła wartość";
     }
 }

@@ -3,43 +3,47 @@
   "WorkspaceRootPath": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_4_Blazor_app\\BlazorApp1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1CB01480-0105-4B74-8216-AEC45937133D}|BlazorApp1.csproj|c:\\users\\wojte\\documents\\github\\.net_java\\lab_4_blazor_app\\blazorapp1\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CB01480-0105-4B74-8216-AEC45937133D}|BlazorApp1.csproj|solutionrelative:components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1CB01480-0105-4B74-8216-AEC45937133D}|BlazorApp1.csproj|c:\\users\\wojte\\documents\\github\\.net_java\\lab_4_blazor_app\\blazorapp1\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1CB01480-0105-4B74-8216-AEC45937133D}|BlazorApp1.csproj|solutionrelative:components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CB01480-0105-4B74-8216-AEC45937133D}|BlazorApp1.csproj|c:\\users\\wojte\\documents\\github\\.net_java\\lab_4_blazor_app\\blazorapp1\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1CB01480-0105-4B74-8216-AEC45937133D}|BlazorApp1.csproj|C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_4_Blazor_app\\BlazorApp1\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1CB01480-0105-4B74-8216-AEC45937133D}|BlazorApp1.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CB01480-0105-4B74-8216-AEC45937133D}|BlazorApp1.csproj|c:\\users\\wojte\\documents\\github\\.net_java\\lab_4_blazor_app\\blazorapp1\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1CB01480-0105-4B74-8216-AEC45937133D}|BlazorApp1.csproj|C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_4_Blazor_app\\BlazorApp1\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1CB01480-0105-4B74-8216-AEC45937133D}|BlazorApp1.csproj|solutionrelative:components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CB01480-0105-4B74-8216-AEC45937133D}|BlazorApp1.csproj|c:\\users\\wojte\\documents\\github\\.net_java\\lab_4_blazor_app\\blazorapp1\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1CB01480-0105-4B74-8216-AEC45937133D}|BlazorApp1.csproj|C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_4_Blazor_app\\BlazorApp1\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1CB01480-0105-4B74-8216-AEC45937133D}|BlazorApp1.csproj|solutionrelative:components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CB01480-0105-4B74-8216-AEC45937133D}|BlazorApp1.csproj|c:\\users\\wojte\\documents\\github\\.net_java\\lab_4_blazor_app\\blazorapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1CB01480-0105-4B74-8216-AEC45937133D}|BlazorApp1.csproj|C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_4_Blazor_app\\BlazorApp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CB01480-0105-4B74-8216-AEC45937133D}|BlazorApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CB01480-0105-4B74-8216-AEC45937133D}|BlazorApp1.csproj|c:\\users\\wojte\\documents\\github\\.net_java\\lab_4_blazor_app\\blazorapp1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{1CB01480-0105-4B74-8216-AEC45937133D}|BlazorApp1.csproj|C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_4_Blazor_app\\BlazorApp1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{1CB01480-0105-4B74-8216-AEC45937133D}|BlazorApp1.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CB01480-0105-4B74-8216-AEC45937133D}|BlazorApp1.csproj|c:\\users\\wojte\\documents\\github\\.net_java\\lab_4_blazor_app\\blazorapp1\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1CB01480-0105-4B74-8216-AEC45937133D}|BlazorApp1.csproj|C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_4_Blazor_app\\BlazorApp1\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1CB01480-0105-4B74-8216-AEC45937133D}|BlazorApp1.csproj|solutionrelative:components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CB01480-0105-4B74-8216-AEC45937133D}|BlazorApp1.csproj|c:\\users\\wojte\\documents\\github\\.net_java\\lab_4_blazor_app\\blazorapp1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{1CB01480-0105-4B74-8216-AEC45937133D}|BlazorApp1.csproj|C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_4_Blazor_app\\BlazorApp1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{1CB01480-0105-4B74-8216-AEC45937133D}|BlazorApp1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CB01480-0105-4B74-8216-AEC45937133D}|BlazorApp1.csproj|c:\\users\\wojte\\documents\\github\\.net_java\\lab_4_blazor_app\\blazorapp1\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1CB01480-0105-4B74-8216-AEC45937133D}|BlazorApp1.csproj|C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_4_Blazor_app\\BlazorApp1\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1CB01480-0105-4B74-8216-AEC45937133D}|BlazorApp1.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CB01480-0105-4B74-8216-AEC45937133D}|BlazorApp1.csproj|c:\\users\\wojte\\documents\\github\\.net_java\\lab_4_blazor_app\\blazorapp1\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1CB01480-0105-4B74-8216-AEC45937133D}|BlazorApp1.csproj|C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_4_Blazor_app\\BlazorApp1\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1CB01480-0105-4B74-8216-AEC45937133D}|BlazorApp1.csproj|solutionrelative:components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -50,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -65,12 +69,21 @@
               "Name": "ST:427032125:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_4_Blazor_app\\BlazorApp1\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Weather.razor",
+              "ToolTip": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_4_Blazor_app\\BlazorApp1\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "Components\\Pages\\Weather.razor",
+              "ViewState": "AQIAADgAAAAAAAAAAAAIwFgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T18:19:27.298Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Counter.razor",
               "DocumentMoniker": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_4_Blazor_app\\BlazorApp1\\Components\\Pages\\Counter.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Counter.razor",
@@ -82,8 +95,12 @@
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_4_Blazor_app\\BlazorApp1\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
@@ -91,12 +108,11 @@
               "RelativeToolTip": "Components\\Pages\\Home.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-07T09:16:47.856Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-07T09:16:47.856Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_4_Blazor_app\\BlazorApp1\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -104,12 +120,11 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-07T09:12:12.574Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-07T09:12:12.574Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_4_Blazor_app\\BlazorApp1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -117,12 +132,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T09:05:20.77Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-07T09:05:20.77Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "_Imports.razor",
               "DocumentMoniker": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_4_Blazor_app\\BlazorApp1\\Components\\_Imports.razor",
               "RelativeDocumentMoniker": "Components\\_Imports.razor",
@@ -130,12 +144,11 @@
               "RelativeToolTip": "Components\\_Imports.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-07T09:05:03.614Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-07T09:05:03.614Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_4_Blazor_app\\BlazorApp1\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -143,12 +156,11 @@
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAAA8AAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-07T09:02:47.98Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-07T09:02:47.98Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_4_Blazor_app\\BlazorApp1\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
@@ -156,12 +168,11 @@
               "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-07T09:02:11.108Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-07T09:02:11.108Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_4_Blazor_app\\BlazorApp1\\Components\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor",
@@ -169,12 +180,11 @@
               "RelativeToolTip": "Components\\Layout\\MainLayout.razor",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-07T09:02:09.191Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-07T09:02:09.191Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Routes.razor",
               "DocumentMoniker": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_4_Blazor_app\\BlazorApp1\\Components\\Routes.razor",
               "RelativeDocumentMoniker": "Components\\Routes.razor",
@@ -182,12 +192,11 @@
               "RelativeToolTip": "Components\\Routes.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-07T09:02:04.289Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-07T09:02:04.289Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "App.razor",
               "DocumentMoniker": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_4_Blazor_app\\BlazorApp1\\Components\\App.razor",
               "RelativeDocumentMoniker": "Components\\App.razor",
@@ -195,8 +204,7 @@
               "RelativeToolTip": "Components\\App.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-07T09:01:59.712Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-07T09:01:59.712Z"
             }
           ]
         }

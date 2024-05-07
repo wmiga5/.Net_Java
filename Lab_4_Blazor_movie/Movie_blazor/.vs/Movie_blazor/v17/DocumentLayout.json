@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_4_Blazor_movie\\Movie_blazor\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0097E900-EF89-46C3-9FA9-19FE1A0FC72C}|Movie_blazor.csproj|C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_4_Blazor_movie\\Movie_blazor\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0097E900-EF89-46C3-9FA9-19FE1A0FC72C}|Movie_blazor.csproj|solutionrelative:components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0097E900-EF89-46C3-9FA9-19FE1A0FC72C}|Movie_blazor.csproj|c:\\users\\wojte\\documents\\github\\.net_java\\lab_4_blazor_movie\\movie_blazor\\components\\pages\\moviepages\\details.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0097E900-EF89-46C3-9FA9-19FE1A0FC72C}|Movie_blazor.csproj|solutionrelative:components\\pages\\moviepages\\details.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0097E900-EF89-46C3-9FA9-19FE1A0FC72C}|Movie_blazor.csproj|c:\\users\\wojte\\documents\\github\\.net_java\\lab_4_blazor_movie\\movie_blazor\\components\\pages\\moviepages\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0097E900-EF89-46C3-9FA9-19FE1A0FC72C}|Movie_blazor.csproj|C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_4_Blazor_movie\\Movie_blazor\\components\\pages\\moviepages\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0097E900-EF89-46C3-9FA9-19FE1A0FC72C}|Movie_blazor.csproj|solutionrelative:components\\pages\\moviepages\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0097E900-EF89-46C3-9FA9-19FE1A0FC72C}|Movie_blazor.csproj|C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_4_Blazor_movie\\Movie_blazor\\components\\pages\\moviepages\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0097E900-EF89-46C3-9FA9-19FE1A0FC72C}|Movie_blazor.csproj|solutionrelative:components\\pages\\moviepages\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_4_Blazor_movie\\Movie_blazor\\Data\\Migrations\\20240507130008_Init3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Migrations\\20240507130008_Init3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0097E900-EF89-46C3-9FA9-19FE1A0FC72C}|Movie_blazor.csproj|C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_4_Blazor_movie\\Movie_blazor\\components\\movies\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,11 +38,11 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wojte\\AppData\\Local\\Temp\\.vsdbgsrc\\4dcf567db33b8407e8e7e85491df71d46c06985d33f5ad8d904e52c3b325c6c5\\ExecutionContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0097E900-EF89-46C3-9FA9-19FE1A0FC72C}|Movie_blazor.csproj|c:\\users\\wojte\\documents\\github\\.net_java\\lab_4_blazor_movie\\movie_blazor\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0097E900-EF89-46C3-9FA9-19FE1A0FC72C}|Movie_blazor.csproj|C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_4_Blazor_movie\\Movie_blazor\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0097E900-EF89-46C3-9FA9-19FE1A0FC72C}|Movie_blazor.csproj|solutionrelative:components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0097E900-EF89-46C3-9FA9-19FE1A0FC72C}|Movie_blazor.csproj|c:\\users\\wojte\\documents\\github\\.net_java\\lab_4_blazor_movie\\movie_blazor\\data\\migrations\\20240507111900_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0097E900-EF89-46C3-9FA9-19FE1A0FC72C}|Movie_blazor.csproj|C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_4_Blazor_movie\\Movie_blazor\\data\\migrations\\20240507111900_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0097E900-EF89-46C3-9FA9-19FE1A0FC72C}|Movie_blazor.csproj|solutionrelative:data\\migrations\\20240507111900_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -90,10 +90,6 @@
       "RelativeMoniker": "D:0:0:{0097E900-EF89-46C3-9FA9-19FE1A0FC72C}|Movie_blazor.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0097E900-EF89-46C3-9FA9-19FE1A0FC72C}|Movie_blazor.csproj|C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_4_Blazor_movie\\Movie_blazor\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0097E900-EF89-46C3-9FA9-19FE1A0FC72C}|Movie_blazor.csproj|solutionrelative:components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0097E900-EF89-46C3-9FA9-19FE1A0FC72C}|Movie_blazor.csproj|C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_4_Blazor_movie\\Movie_blazor\\components\\pages\\auth.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0097E900-EF89-46C3-9FA9-19FE1A0FC72C}|Movie_blazor.csproj|solutionrelative:components\\pages\\auth.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -104,6 +100,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{0097E900-EF89-46C3-9FA9-19FE1A0FC72C}|Movie_blazor.csproj|C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_4_Blazor_movie\\Movie_blazor\\Data\\Migrations\\20240507103036_Init1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0097E900-EF89-46C3-9FA9-19FE1A0FC72C}|Movie_blazor.csproj|solutionrelative:Data\\Migrations\\20240507103036_Init1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0097E900-EF89-46C3-9FA9-19FE1A0FC72C}|Movie_blazor.csproj|C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_4_Blazor_movie\\Movie_blazor\\Data\\Migrations\\20240507130008_Init3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0097E900-EF89-46C3-9FA9-19FE1A0FC72C}|Movie_blazor.csproj|solutionrelative:Data\\Migrations\\20240507130008_Init3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -113,7 +113,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 336,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 26,
           "Children": [
             {
               "$type": "Bookmark",
@@ -134,6 +134,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Details.razor",
+              "DocumentMoniker": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_4_Blazor_movie\\Movie_blazor\\Components\\Pages\\MoviePages\\Details.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\MoviePages\\Details.razor",
+              "ToolTip": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_4_Blazor_movie\\Movie_blazor\\Components\\Pages\\MoviePages\\Details.razor",
+              "RelativeToolTip": "Components\\Pages\\MoviePages\\Details.razor",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAIwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T12:19:28.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Edit.razor",
               "DocumentMoniker": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_4_Blazor_movie\\Movie_blazor\\Components\\Pages\\MoviePages\\Edit.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\MoviePages\\Edit.razor",
@@ -141,12 +154,11 @@
               "RelativeToolTip": "Components\\Pages\\MoviePages\\Edit.razor",
               "ViewState": "AQIAACQAAAAAAAAAAAAAADUAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-07T13:11:43.095Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-07T13:11:43.095Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 25,
               "Title": "20240507130008_Init3.cs",
               "DocumentMoniker": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_4_Blazor_movie\\Movie_blazor\\Data\\Migrations\\20240507130008_Init3.cs",
               "RelativeDocumentMoniker": "Data\\Migrations\\20240507130008_Init3.cs",
@@ -154,8 +166,7 @@
               "RelativeToolTip": "Data\\Migrations\\20240507130008_Init3.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T13:00:08.443Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-07T13:00:08.443Z"
             },
             {
               "$type": "Document",
@@ -167,8 +178,7 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\4dcf567db33b8407e8e7e85491df71d46c06985d33f5ad8d904e52c3b325c6c5\\ExecutionContext.cs [Read Only]",
               "ViewState": "AQIAALIAAAAAAAAAAADgv8sAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T12:47:00.263Z",
-              "EditorCaption": " [Read Only]"
+              "WhenOpened": "2024-05-07T12:47:00.263Z"
             },
             {
               "$type": "Document",
@@ -180,21 +190,7 @@
               "RelativeToolTip": "Components\\Pages\\Counter.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-07T12:20:51.785Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Details.razor",
-              "DocumentMoniker": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_4_Blazor_movie\\Movie_blazor\\Components\\Pages\\MoviePages\\Details.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\MoviePages\\Details.razor",
-              "ToolTip": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_4_Blazor_movie\\Movie_blazor\\Components\\Pages\\MoviePages\\Details.razor",
-              "RelativeToolTip": "Components\\Pages\\MoviePages\\Details.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-07T12:19:28.528Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-07T12:20:51.785Z"
             },
             {
               "$type": "Document",
@@ -206,8 +202,7 @@
               "RelativeToolTip": "Data\\Migrations\\20240507111900_Init2.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T11:19:00.507Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-07T11:19:00.507Z"
             },
             {
               "$type": "Document",
@@ -219,12 +214,11 @@
               "RelativeToolTip": "Components\\Pages\\MoviePages\\Index.razor",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-07T11:18:24.743Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-07T11:18:24.743Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Create.razor",
               "DocumentMoniker": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_4_Blazor_movie\\Movie_blazor\\Components\\Pages\\MoviePages\\Create.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\MoviePages\\Create.razor",
@@ -232,8 +226,7 @@
               "RelativeToolTip": "Components\\Pages\\MoviePages\\Create.razor",
               "ViewState": "AQIAABsAAAAAAAAAAAAAACkAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-07T11:17:32.61Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-07T11:17:32.61Z"
             },
             {
               "$type": "Document",
@@ -269,8 +262,7 @@
               "RelativeToolTip": "Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-07T10:41:42.343Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-07T10:41:42.343Z"
             },
             {
               "$type": "Document",
@@ -390,8 +382,7 @@
               "RelativeToolTip": "Components\\Movies\\Movie.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T10:36:00.4Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-07T10:36:00.4Z"
             },
             {
               "$type": "Document",
@@ -403,24 +394,24 @@
               "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
               "ViewState": "AQIAADMAAAAAAAAAAAAAAEkAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-07T10:33:48.047Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-07T10:33:48.047Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 0,
               "Title": "Weather.razor",
               "DocumentMoniker": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_4_Blazor_movie\\Movie_blazor\\Components\\Pages\\Weather.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Weather.razor",
               "ToolTip": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_4_Blazor_movie\\Movie_blazor\\Components\\Pages\\Weather.razor",
               "RelativeToolTip": "Components\\Pages\\Weather.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-07T10:31:57.339Z"
+              "WhenOpened": "2024-05-07T10:31:57.339Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 22,
               "Title": "Auth.razor",
               "DocumentMoniker": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_4_Blazor_movie\\Movie_blazor\\Components\\Pages\\Auth.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Auth.razor",
@@ -432,7 +423,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 24,
               "Title": "20240507103036_Init1.cs",
               "DocumentMoniker": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_4_Blazor_movie\\Movie_blazor\\Data\\Migrations\\20240507103036_Init1.cs",
               "RelativeDocumentMoniker": "Data\\Migrations\\20240507103036_Init1.cs",
@@ -444,7 +435,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 23,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\wojte\\Documents\\GitHub\\.Net_Java\\Lab_4_Blazor_movie\\Movie_blazor\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
