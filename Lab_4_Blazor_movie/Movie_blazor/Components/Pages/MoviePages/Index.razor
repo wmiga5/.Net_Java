@@ -4,7 +4,9 @@
 @using Movie_blazor.Components.Movies
 @attribute [StreamRendering]
 @rendermode InteractiveServer
+@using Microsoft.AspNetCore.Authorization
 
+@attribute [Authorize]
 <PageTitle>Index</PageTitle>
 
 <h1>Index</h1>
