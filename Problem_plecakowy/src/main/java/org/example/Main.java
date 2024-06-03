@@ -10,7 +10,7 @@ public class Main {
     int wielkosc_plecaka;
     int ziarno;
     int dolna=1;
-    int gorna=10;
+    int gorna=5;
     Scanner sc = new Scanner(System.in);
         System.out.println("Podaj ilosc przedmiotów do wygenerowania");
     ilosc=sc.nextInt();
