@@ -7,11 +7,11 @@ import java.net.URL;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.Scanner;
-
+//Klasa obsługująca API
 public class WeatherApp {
-    public static JSONObject getWeatherData(String location)
+    public static JSONObject get_weather_data(String location)
     {
-        JSONArray location_data=getLocationData(location);
+        JSONArray location_data= get_location_data(location);
 
         JSONObject location_paramether=(JSONObject)location_data.get(0);
         double latitude=(Double)location_paramether.get("latitude");
@@ -39,7 +39,7 @@ public class WeatherApp {
 
 
                 conn.disconnect();
-
+                //Odkowowanie JSONA
                 JSONParser parser=new JSONParser();
                 JSONObject result_json_object=(JSONObject)parser.parse(String.valueOf(result_json));
 
@@ -74,7 +74,7 @@ public class WeatherApp {
 
         return null;
     }
-    public static JSONArray getLocationData(String location)
+    public static JSONArray get_location_data(String location)
     {
         location=location.replaceAll(" ","+");
         String url_string="https://geocoding-api.open-meteo.com/v1/search?name="
@@ -100,9 +100,9 @@ public class WeatherApp {
 
                 JSONParser parser=new JSONParser();
                 JSONObject result_obj=(JSONObject) parser.parse(String.valueOf(result_json));
-                JSONArray location_data=(JSONArray) result_obj.get("results");
 
-                return location_data;
+
+                return (JSONArray) result_obj.get("results");
 
             }
 
@@ -146,8 +146,8 @@ public class WeatherApp {
     {
         LocalDateTime current_date_time= LocalDateTime.now();
         DateTimeFormatter formatter=DateTimeFormatter.ofPattern("yyyy-MM-dd'T'HH':00'");
-        String formated_date_time=current_date_time.format(formatter);
-        return formated_date_time;
+
+        return current_date_time.format(formatter);
     }
 
 
@@ -159,7 +159,7 @@ public class WeatherApp {
             weather_condition="Clear";
         } else if (weather_code<=3L&&weather_code>0L) {
             weather_condition="Cloudy";
-            
+
         }
         else if((weather_code>=51L&&weather_code<=67L)||(weather_code>=80L&&weather_code<=99L))
         {

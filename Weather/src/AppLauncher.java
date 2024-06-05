@@ -1,4 +1,6 @@
 import javax.swing.*;
+//Klasa podstawowa odpalająca wszystko
+//Obrazki, które są w projekcie pobrałem z internetu
 
 public class AppLauncher {
     public static void main(String[] args) {

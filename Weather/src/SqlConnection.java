@@ -2,13 +2,13 @@ import java.sql.*;
 import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.List;
-
+//Klasa odpowiedzialna za podłączenie z bazą danych
 public class SqlConnection {
 
     private static String DB_URL = "jdbc:mysql://127.0.0.1:3306/szklarnia_v3";
     private static String USER = "root";
     private static String PASSWORD = "";
-
+    //Klasa przechowująca pomiar, w praktyce jest taka sam jak w bazie danych
     public static class pomiar {
         private int id;
         private int deviceId;
@@ -16,7 +16,7 @@ public class SqlConnection {
         private double temperature;
         private double humidity;
         private double insolation;
-
+        //Konstruktor
         public pomiar(int id, int deviceId, LocalDateTime dateTime, float temperature, float humidity, float insolation) {
             this.id = id;
             this.deviceId = deviceId;
@@ -37,17 +37,18 @@ public class SqlConnection {
                     '}';
 
         }
-
+        //Dostępowe funkcje
         public LocalDateTime getDateTime(){return dateTime;}
         public double getTemperature(){return temperature;}
         public double getHumidity(){return humidity;}
         public double getInsolation(){return insolation;}
 
     }
+    //Podłącza się do serwera bazy danych, obsługuje błąd
     public Connection getConnection() throws SQLException {
         return DriverManager.getConnection(DB_URL,USER,PASSWORD);
     }
-
+    //Odczytuje liste urządzeń z bazy danych
     public List<Integer> get_device_id()
     {
         List<Integer> result = new ArrayList<>();
@@ -71,7 +72,7 @@ public class SqlConnection {
         }
         return result;
     }
-
+    //Odczytuje pomiary z bazy danych
     public List<pomiar> get_pomiar(int device_id)
     {
         List<pomiar> pomiary = new ArrayList<>();
